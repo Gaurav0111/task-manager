@@ -1,0 +1,3 @@
+dependencies {
+    implementation files('lib/sqlite-jdbc-3.46.0.0.jar')
+}
